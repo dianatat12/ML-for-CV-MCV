@@ -1,0 +1,6 @@
+delete this file when you will add the first file here. this folder is to put different files
+
+like 
+1. for anything related to BOVW
+2. for anything related to label classifier 
+3. for anything related to feature 
